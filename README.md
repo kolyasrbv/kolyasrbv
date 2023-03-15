@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kolyasrbv
--  How to reach me t.me/kolyafrommsu
+-  How to reach me t.me/kolyasrbv
+-  https://linkedin.com/in/nikolay-serebryakov-msu
 
 <!---
 kolyasrbv/kolyasrbv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
